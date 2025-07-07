@@ -1,4 +1,4 @@
-# I made a macro pad
+# I made a macro pad.
 
 Here it is:
 
